@@ -11,4 +11,5 @@ npm create @pr4j3sh/frames@latest rust mypkg
 ## References
 
 - [Rust Documentation](https://www.rust-lang.org/learn/get-started)
+- [Category slugs](https://crates.io/category_slugs)
 - [@pr4j3sh/frames](https://github.com/pr4j3sh/frames)
