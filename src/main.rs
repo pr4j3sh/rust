@@ -1,3 +1,5 @@
+use rust::greet;
+
 fn main() {
-    println!("Hello, world!");
+    greet("world".to_string());
 }

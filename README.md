@@ -8,6 +8,8 @@ Simple Rust package starter template.
 npm create @pr4j3sh/frames@latest rust mypkg
 ```
 
+- Update `Cargo.toml`
+
 ## References
 
 - [Rust Documentation](https://www.rust-lang.org/learn/get-started)
