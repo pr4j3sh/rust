@@ -1,6 +1,8 @@
-# Rust Package Template
+# Rust Package/Library
 
-Simple Rust package starter template.
+Rust package/library starter template.
+
+## Usage
 
 - Clone using `@pr4j3sh/frames`
 
@@ -9,6 +11,10 @@ npm create @pr4j3sh/frames@latest rust mypkg
 ```
 
 - Update `Cargo.toml`
+
+```bash
+cargo run
+```
 
 ## References
 
